@@ -82,7 +82,7 @@ export function Map() {
     
     return (
       <div>
-        <img className={styles.logo} src="/logo.svg" alt="" />
+        <img className={styles.logo} src="logo.svg" alt="" />
         <h1 className={styles.appName}>Spatium</h1>
         <Search panTo={panTo} />
         <Locate panTo={panTo} />
@@ -110,7 +110,7 @@ export function Map() {
             <Marker
               position={{ lat: pencil.lat, lng: pencil.lng }}
               icon={{
-                url: "/pencil.svg",
+                url: "pencil.svg",
                 scaledSize: new window.google.maps.Size(30, 30),
                 origin: new window.google.maps.Point(0,0),
                 anchor: new window.google.maps.Point(15,15),
@@ -174,7 +174,7 @@ function Locate({panTo}) {
         });
       }, () => null);
     }}>
-      <img src="/compass.svg" alt="compass - locate me" />
+      <img src="compass.svg" alt="compass - locate me" />
     </button>
   )
 }
