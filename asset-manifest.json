@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/spatium/static/css/main.be7872c8.chunk.css",
-    "main.js": "/spatium/static/js/main.f9018ee6.chunk.js",
-    "main.js.map": "/spatium/static/js/main.f9018ee6.chunk.js.map",
+    "main.js": "/spatium/static/js/main.d9eb7756.chunk.js",
+    "main.js.map": "/spatium/static/js/main.d9eb7756.chunk.js.map",
     "runtime-main.js": "/spatium/static/js/runtime-main.ab65cd31.js",
     "runtime-main.js.map": "/spatium/static/js/runtime-main.ab65cd31.js.map",
     "static/css/2.6eff3e32.chunk.css": "/spatium/static/css/2.6eff3e32.chunk.css",
     "static/js/2.75c0ee88.chunk.js": "/spatium/static/js/2.75c0ee88.chunk.js",
     "static/js/2.75c0ee88.chunk.js.map": "/spatium/static/js/2.75c0ee88.chunk.js.map",
     "index.html": "/spatium/index.html",
-    "precache-manifest.1dfe38f31fa868cf45e7cf3211983a24.js": "/spatium/precache-manifest.1dfe38f31fa868cf45e7cf3211983a24.js",
+    "precache-manifest.24cd5887e994d246ecf96ebfcfa10b09.js": "/spatium/precache-manifest.24cd5887e994d246ecf96ebfcfa10b09.js",
     "service-worker.js": "/spatium/service-worker.js",
     "static/css/2.6eff3e32.chunk.css.map": "/spatium/static/css/2.6eff3e32.chunk.css.map",
     "static/css/main.be7872c8.chunk.css.map": "/spatium/static/css/main.be7872c8.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6eff3e32.chunk.css",
     "static/js/2.75c0ee88.chunk.js",
     "static/css/main.be7872c8.chunk.css",
-    "static/js/main.f9018ee6.chunk.js"
+    "static/js/main.d9eb7756.chunk.js"
   ]
 }
