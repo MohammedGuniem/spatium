@@ -1,0 +1,135 @@
+.averageElevation {
+    position: absolute;
+    bottom: 2rem;
+    left: 1rem;
+    color: #000000;
+    font-weight: 1000;
+    z-index: 10;
+}
+
+.minElevation {
+    position: absolute;
+    bottom: 4rem;
+    left: 1rem;
+    color: #000000;
+    font-weight: 1000;
+    z-index: 10;
+}
+
+.maxElevation {
+    position: absolute;
+    bottom: 6rem;
+    left: 1rem;
+    color: #000000;
+    font-weight: 1000;
+    z-index: 10;
+}
+
+.distance {
+    position: absolute;
+    bottom: 8rem;
+    left: 1rem;
+    color: #000000;
+    font-weight: 1000;
+    z-index: 10;
+}
+
+
+
+@media only screen and (min-width: 0px) {   
+    .search {
+        position: absolute;
+        top: 3.5rem;
+        left: 0rem;
+        transform: translateX(0%);
+        width: 100%;
+        max-width: 302px;
+        z-index: 10;
+    }
+      
+    .search input {
+        padding: 0.5rem;
+        font-size: 1.5rem;
+        width: 100%;
+    }
+    
+    .logo {
+        position: absolute;
+        width: 15%;
+        max-width: 50px;
+        top: 0rem;
+        left: 0rem;
+        z-index: 10;
+    }
+    
+    .appName {
+        position: absolute;
+        top: -1rem;
+        left: 3.5rem;
+        z-index: 10;  
+    }
+
+    .locate {
+        position: absolute;
+        bottom: 7rem;
+        right: 0rem;
+        background: none;
+        border: none;
+        z-index: 10;
+     }
+       
+     .locate img {
+        width: 50px;
+        cursor: pointer;
+    }
+
+}
+
+@media only screen and (min-width: 800px) {
+    .search {
+        position: absolute;
+        top: 1rem;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        max-width: 400px;
+        z-index: 10;
+    }
+      
+    .search input {
+        padding: 0.5rem;
+        font-size: 1.5rem;
+        width: 100%;
+    }
+    
+    .logo {
+        position: absolute;
+        width: 15%;
+        max-width: 50px;
+        top: 1rem;
+        left: 1rem;
+        z-index: 10;
+    }
+    
+    .appName {
+        position: absolute;
+        top: 0rem;
+        left: 4.5rem;
+        z-index: 10;  
+    }
+    
+    .locate {
+        position: absolute;
+        top: 0rem;
+        right: 0rem;
+        background: none;
+        border: none;
+        z-index: 10;
+     }
+       
+     .locate img {
+        width: 50px;
+        cursor: pointer;
+    }
+}
+
