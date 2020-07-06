@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af064f27d6081da3e4695d4ebdaa5a70",
+    "revision": "e0d5cea2c47357b3c84aa60306e79655",
     "url": "/spatium/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spatium/static/css/2.6eff3e32.chunk.css"
   },
   {
-    "revision": "290611ae34438c2b9540",
+    "revision": "bdb8538395c07c1e6261",
     "url": "/spatium/static/css/main.be7872c8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spatium/static/js/2.75c0ee88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "290611ae34438c2b9540",
-    "url": "/spatium/static/js/main.c737b06d.chunk.js"
+    "revision": "bdb8538395c07c1e6261",
+    "url": "/spatium/static/js/main.f9018ee6.chunk.js"
   },
   {
     "revision": "684dec0296c159079743",
