@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bae490d701e29aaeaa686b08f3765e4",
+    "revision": "600dbe99f107e51de136e6ca34aca84e",
     "url": "/spatium/index.html"
   },
   {
